@@ -30,9 +30,6 @@ String jsonKeys[4]  = {"bitcoin", "ethereum", "solana", "binancecoin"};
 
 StaticJsonDocument<1024> doc;
 
-// -------------------------------
-// 40 Tech Jokes + Quotes (No Emojis)
-// -------------------------------
 String jokes[] = {
 
   
@@ -46,8 +43,6 @@ String jokes[] = {
   "Crypto gods\nsaid no",
   "Debugging...\nplease wait",
   "Router is\nmood off",
-
-  // +30 new ones
   "I swear I\nsent the packet",
   "WiFi wants a\ncoffee break",
   "Router said:\nNot today",
