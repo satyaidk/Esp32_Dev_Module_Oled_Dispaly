@@ -132,11 +132,11 @@ void loop() {
     }
 
   } else {
-    // ------------- RANDOM JOKE DISPLAY -------------
+   
     int r = random(0, jokeCount);
 
     display.setCursor(0, 0);
-    display.println("Oops!");
+    display.println("Oops! X_X");
 
     display.setCursor(0, 14);
     display.println(jokes[r]);
