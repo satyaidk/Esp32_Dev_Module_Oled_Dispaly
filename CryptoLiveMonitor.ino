@@ -35,7 +35,7 @@ StaticJsonDocument<1024> doc;
 // -------------------------------
 String jokes[] = {
 
-  // Original 10
+  
   "WiFi went for\na smoke break",
   "API busy\nwatching anime",
   "Packets ran\naway",
